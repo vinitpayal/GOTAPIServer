@@ -42,10 +42,10 @@ module.exports.connections = {
   ***************************************************************************/
   GOTMysqlServer: {
     adapter: 'sails-mysql',
-    host: 'localhost',
-    user: 'root', //optional
-    password: 'root', //optional
-    database: 'GOT' //optional
+    host: 'byzqd0uct-mysql.services.clever-cloud.com',
+    user: 'u4tfirvy63wfn4yb', //optional
+    password: '83FuK94bwrNvDsEls10', //optional
+    database: 'byzqd0uct' //optional
   },
 
   /***************************************************************************
